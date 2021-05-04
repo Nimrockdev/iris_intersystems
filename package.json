@@ -1,0 +1,11 @@
+{
+  "name": "iris_intersystems",
+  "version": "1.0.0",
+  "description": "demo irir intersystems",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Javier Sánchez",
+  "license": "ISC"
+}
